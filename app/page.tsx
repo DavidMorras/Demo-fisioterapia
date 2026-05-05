@@ -43,7 +43,7 @@ function HeroSection() {
               Tratamientos personalizados basados en evidencia científica.
             </p>
             <a
-              href="https://wa.me/34680210456?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
+              href="https://wa.me/34600000000?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex mt-8 px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium text-lg transition-all duration-300 hover:opacity-90 hover:scale-[1.02] shadow-sm"
@@ -168,7 +168,7 @@ function AboutSection() {
             
             <div className="mt-8 space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Con más de 10 años de experiencia, Laura Martínez es graduada en Fisioterapia por la Universidad Complutense de Madrid, con formación especializada en terapia manual, fisioterapia deportiva y suelo pélvico.
+                Con más de 10 años de experiencia, Laura Martínez es graduada en Fisioterapia por la Universidad de Zaragoza, con formación especializada en terapia manual, fisioterapia deportiva y suelo pélvico.
               </p>
               <p>
                 En Fisio Vital, cada paciente recibe un tratamiento completamente personalizado. Creemos en la escucha activa, el diagnóstico preciso y las técnicas basadas en la última evidencia científica.
@@ -276,7 +276,7 @@ function ContactSection() {
             </p>
             
             <a
-              href="https://wa.me/34680210456?text=Hola,%20he%20visto%20tu%20página%20y%20me%20gustaria%20un%20diagnostico%20gratuito"
+              href="https://wa.me/34600000000?text=Hola,%20he%20visto%20tu%20página%20y%20me%20gustaria%20un%20diagnostico%20gratuito"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex mt-8 px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium text-lg transition-all duration-300 hover:opacity-90 hover:scale-[1.02] shadow-sm items-center gap-3"
@@ -316,7 +316,7 @@ function ContactSection() {
             <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
               <Image
                 src="/images/map-placeholder.jpg"
-                alt="Ubicación de Fisio Vital en Madrid"
+                alt="Ubicación de Fisio Vital en La almuinia de Doña Godina, Zaragoza"
                 fill
                 className="object-cover"
               />
@@ -377,11 +377,11 @@ function Footer() {
           <div className="flex flex-col items-start md:items-end">
             <h3 className="font-semibold text-foreground mb-4">Contacto</h3>
             <div className="space-y-2 text-sm text-muted-foreground md:text-right">
-              <p>Plaza de la paz, 50100 La Almunia de Doña Godina</p>
-              <p>+34 680 210 456</p>
+              <p>Plaza de la paz, 50100 La Almunia</p>
+              <p>+34 600 000 000</p>
               <p>Lunes a Viernes: 9:00 - 20:00</p>
               <a
-                href="https://wa.me/34680210456"
+                href="https://wa.me/34600000000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-primary hover:underline mt-2"
