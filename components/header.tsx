@@ -110,7 +110,7 @@ export function Header() {
 
           {/* Desktop CTA */}
           <a
-            href="https://wa.me/34600000000?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
+            href="https://wa.me/34680210456?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden lg:inline-flex px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-sm transition-all duration-300 hover:opacity-90"
@@ -162,7 +162,7 @@ export function Header() {
               )
             })}
             <a
-              href="https://wa.me/34600000000?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
+              href="https://wa.me/34680210456?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 px-4 py-3 bg-primary text-primary-foreground rounded-lg font-medium text-base text-center transition-all duration-300 hover:opacity-90"

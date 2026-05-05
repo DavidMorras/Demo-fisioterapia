@@ -43,7 +43,7 @@ function HeroSection() {
               Tratamientos personalizados basados en evidencia científica.
             </p>
             <a
-              href="https://wa.me/34600000000?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
+              href="https://wa.me/34680210456?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex mt-8 px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium text-lg transition-all duration-300 hover:opacity-90 hover:scale-[1.02] shadow-sm"
@@ -276,7 +276,7 @@ function ContactSection() {
             </p>
             
             <a
-              href="https://wa.me/34600000000?text=Hola,%20me%20gustaría%20reservar%20una%20cita"
+              href="https://wa.me/34680210456?text=Hola,%20he%20visto%20tu%20página%20y%20me%20gustaria%20un%20diagnostico%20gratuito"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex mt-8 px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium text-lg transition-all duration-300 hover:opacity-90 hover:scale-[1.02] shadow-sm items-center gap-3"
@@ -293,7 +293,8 @@ function ContactSection() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   <path strokeLinecap="round" strokeLinejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
-                <span>Calle Mayor 45, 28013 Madrid</span>
+                <span>Plaza de la paz, 50100 La almunia de doña godina
+                </span>
               </div>
               <div className="flex items-start gap-3">
                 <svg className="w-5 h-5 text-primary mt-0.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -322,7 +323,7 @@ function ContactSection() {
               <div className="absolute inset-0 flex items-center justify-center bg-foreground/5">
                 <div className="bg-card p-4 rounded-lg shadow-md text-center">
                   <p className="font-semibold text-foreground">Fisio Vital</p>
-                  <p className="text-sm text-muted-foreground">Calle Mayor 45, Madrid</p>
+                  <p className="text-sm text-muted-foreground">Plaza de la paz, La Almunia de Doña Godina</p>
                 </div>
               </div>
             </div>
@@ -376,11 +377,11 @@ function Footer() {
           <div className="flex flex-col items-start md:items-end">
             <h3 className="font-semibold text-foreground mb-4">Contacto</h3>
             <div className="space-y-2 text-sm text-muted-foreground md:text-right">
-              <p>Calle Mayor 45, 28013 Madrid</p>
-              <p>+34 600 000 000</p>
+              <p>Plaza de la paz, 50100 La Almunia de Doña Godina</p>
+              <p>+34 680 210 456</p>
               <p>Lunes a Viernes: 9:00 - 20:00</p>
               <a
-                href="https://wa.me/34600000000"
+                href="https://wa.me/34680210456"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-primary hover:underline mt-2"
